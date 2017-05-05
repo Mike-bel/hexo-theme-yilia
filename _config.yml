@@ -2,14 +2,14 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  归档: /archives
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/Mike-bel"
+  weibo: "http://weibo.com/3137408085/profile?topnav=1&wvr=6&is_all=1"
+  # rss: "#"
+  # zhihu: "#"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -17,7 +17,7 @@ subnav:
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  mail: "mailto:fengleegg@gmail.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -45,7 +45,7 @@ open_in_new: false
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
 reward_type: 2
 # 打赏wording
-reward_wording: '谢谢你请我吃糖果'
+reward_wording: '谢谢你请我喝咖啡~'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
 alipay: 
 # 微信二维码图片地址
@@ -64,11 +64,11 @@ top: true
 
 # Miscellaneous
 baidu_analytics: ''
-google_analytics: ''
+google_analytics: 'UA-83125745-1'
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: /assets/imgSite/avatar.png
 
 #是否开启分享
 share_jia: true
@@ -78,7 +78,7 @@ share_jia: true
 #具体请参考wiki：https://github.com/litten/hexo-theme-yilia/wiki/
 
 #1、多说
-duoshuo: false
+duoshuo: yifengzone
 
 #2、网易云跟帖
 wangyiyun: false
@@ -120,11 +120,9 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+  郭霖: http://blog.csdn.net/guolin_blog
+  鸿洋: http://blog.csdn.net/lmj623565791
+  任玉刚: http://blog.csdn.net/singwhatiwanna
+  泡在网上的日子: http://www.jcodecraeer.com/plus/list.php?tid=16
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 长期拼搏在一线开发的安卓程序猿一枚，热衷于技术，沉浸于段子，微信公众号：技术鸟（微信号：NiaoTech）。If you can't fly then run, can't run then walk, can't walk then crawl, keep moving forward.
