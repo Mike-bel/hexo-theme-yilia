@@ -18,6 +18,10 @@
         <%- post.content %>
       <% } %>
 
+      <% if (!index){ %>
+        <%- partial('post/copyright') %>
+      <% } %>
+
       <% if ((theme.reward_type === 2 || (theme.reward_type === 1 && post.reward)) && !index){ %>
         <div class="page-reward">
           <a href="javascript:;" class="page-reward-btn tooltip-top">
