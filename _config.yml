@@ -65,7 +65,7 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: 'UA-83125745-1'
-favicon: /favicon.png
+favicon: /favicon.ico
 
 #你的头像url
 avatar: /assets/imgSite/avatar.png
@@ -125,4 +125,4 @@ friends:
   任玉刚: http://blog.csdn.net/singwhatiwanna
   泡在网上的日子: http://www.jcodecraeer.com/plus/list.php?tid=16
 
-aboutme: 长期拼搏在一线开发的安卓程序猿一枚，热衷于技术，沉浸于段子，微信公众号：技术鸟（微信号：NiaoTech）。If you can't fly then run, can't run then walk, can't walk then crawl, keep moving forward.
+aboutme: 亦枫，<br/>一名魔都安卓程序员<br/><br/>喜欢深夜执笔，<br/>微信公众号：安卓笔记侠<br/><br/>My Motto,<br/>If you can't fly then run, <br/>can't run then walk, <br/>can't walk then crawl, <br/>keep moving forward.
